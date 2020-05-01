@@ -1,0 +1,19 @@
+<object-stream>
+  <list>
+    <Scouter>
+      <name>becky</name>
+      <county>d</county>
+      <dateOfBirth>s</dateOfBirth>
+      <address>a</address>
+      <phoneNumber>o</phoneNumber>
+      <specialInterests>
+        <SpecialInterest>
+          <interestCategory></interestCategory>
+          <details>n</details>
+          <dateBadgeReceived>c</dateBadgeReceived>
+        </SpecialInterest>
+      </specialInterests>
+      <dateOfVetting>9</dateOfVetting>
+    </Scouter>
+  </list>
+</object-stream>
